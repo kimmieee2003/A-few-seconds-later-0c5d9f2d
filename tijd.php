@@ -1,6 +1,6 @@
 <?php
 $imput = $argv[1];
-if (strpos($imput, "s")){
+if (strpos($imput, "s")) {
     $sec = (int)$imput;
 }
 else{
